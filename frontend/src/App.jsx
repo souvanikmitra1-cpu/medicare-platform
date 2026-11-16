@@ -8,8 +8,8 @@ import {
 
 import "./App.css";
 import MedicineDetails from "./pages/MedicineDetails";
-import Cart from "./pages/Cart";
-import Checkout from "./pages/Checkout";
+import Cart from "./pages/cart";
+import Checkout from "./pages/checkout";
 import OrderConfirmation from "./pages/OrderConfirmation";
 
 const medicines = [
